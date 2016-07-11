@@ -5,6 +5,9 @@
 - name: restart supervisor
   service: name=supervisor state=restarted
 
+- name: reread supervisor
+  shell: supervisorctl reread
+
 - name: stop supervisor
   service: name=supervisor state=stopped
 
