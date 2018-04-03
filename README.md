@@ -33,3 +33,10 @@ License
 -------
 
 BSD
+
+Author Information
+------------------
+
+Steamulo - www.steamulo.com
+
+Forked from [futurice](https://github.com/futurice)
